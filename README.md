@@ -1,6 +1,6 @@
 # qr_code
 ## QRコード生成システム
-endroid/qr-codeのライブラリを使わせてもらいました。<br>https://github.com/endroid/qr-code
+こちらのendroid/qr-codeのライブラリを使わせてもらいました。<br>https://github.com/endroid/qr-code
 
 ### <strong>概要</strong>
 ![サイト構成図](QR_code_root.png)
