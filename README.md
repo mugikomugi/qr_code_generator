@@ -8,7 +8,7 @@
 
 |ファイル・フォルダ |内容
 |--|--
-|index.php | TOPページ、入力・生成・DL
+|index.php | TOPページ、入力・表示・DL
 |qr_code_png.php |png画像生成
 |qr_code_svg.php |svg生成
 |qr_data.json |submitされた入力値を格納
