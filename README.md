@@ -16,7 +16,6 @@ endroid/qr-codeのライブラリを使わせてもらいました。<br>https:/
 |style.css |メインCSS
 |vendor |ライブラリフォルダ
 |image |画像格納フォルダ
-| |
 
 ### <strong>注釈</strong>
 submitは同ページでエラーチェックと値変換をしています。<br>
