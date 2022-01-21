@@ -236,7 +236,7 @@ rel="stylesheet">
           サイズは70px〜カスタムサイズも入力できるようにしています。色はデフォルトで黒にしていますがカラーも選べます。<br>
           画像形式は推奨されているPNGと、カスタマイズ向きのSVGを生成できるようにしました。
         </p>
-        <p class="center"><a href="https://github.com/endroid/qr-code">https://github.com/endroid/qr-code</a><br><span class="smallText">※使用バージョンは4.4.7です</span></p>
+        <p class="center"><a href="https://packagist.org/packages/endroid/qr-code">https://packagist.org/packages/endroid/qr-code</a><br><span class="smallText">※使用バージョンは4.4.7です</span></p>
       </section>
 
       <!-- form送信 -->
